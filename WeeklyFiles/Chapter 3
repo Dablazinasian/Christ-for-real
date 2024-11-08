@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapter 3</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <h2>Chapter 3</h2>
+    <p>I know that we're all very busy. For some of y'all, this isn't your only book you're reading consistently. 
+        So I want to encourage y'all to be highlighting or jotting down interesting points Price makes or verses that really tied everything together for you.</p>
+
+    <div>A passage that could be read alongside this chapter: Matthew 25:31-46</div>
+    
+    <!--
+    <br>
+    <div>While reading Chapter 2, you might notice that it's very similar to chapter 1. Here are a few distinctions to focus on:
+        <span style="display: block; margin: 0;">- Depth of Alienation: why does our failure exist</span>
+        <span style="display: block; margin: 0;">- Glory of God: ultimate standard</span>
+        <span style="display: block; margin: 0;">- Nothing is impossible: hopeful perspective</span>
+    </div>
+    -->
+    <p>As you read the chapter, consider how surrendering to Christ’s lordship might look in your everyday life.</p>
+
+    <div>A couple of examples:
+        <span style="display: block; margin: 0;">- Decisions: Instead of deciding based on personal preferences, pray for God’s guidance, trusting His direction.</span>
+        <span style="display: block; margin: 0;">- Priorities: Reflect on areas where you may hold back from surrendering. Choose one area this week to yield fully to God.</span>
+        <span style="display: block; margin: 0;">- Dependence: Practice letting go of self-reliance by inviting God’s help in daily tasks, viewing them as opportunities for faith growth.</span>
+        <!--
+        <span style="display: block; margin: 0;">- God's heart for justice</span>
+        <span style="display: block; margin: 0;">- God's steadfast joy</span>
+        -->
+    </div>
+</body>
+</html>
